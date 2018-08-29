@@ -1,13 +1,13 @@
-**@d,email,login,mailing_enable,name,status,type,oauth_sour**@e
-1,popov.pa@yandex.ru,admin,TRUE,Ivy Mike,ACTIVE,ADMIN,FB
-2,jingobox@gmail.c**@m,administrator,TRUE,Александр,ACTIVE,ADMIN**@VK
-3,careregreg54543moron@mail.ru,user-3,@RUE,,ACTIVE,USER,
-4,jee-boy@yandex.ru,user,TRUE,,ACTI**@E,USER,
-5,djuvs@mail.ru,mr. Djuvs,TRUE,Ю**@ий,ACTIVE,EXPERT,
-6,camoron2@mail.ru,user-6,TRUE,,NEW**@USER,
-7,camoron@mail.ru,user-7,TRUE,Павел,ACTIVE,USER,
+id,email,login,mailing_enable,name,status,type,oauth_source
+1,popov.**@yandex.ru,admin,TRUE,Ivy Mike,ACTIVE,ADMIN,FB
+2,jingob**@gmail.com,administrator,TRUE,Александр,ACTIVE,ADMIN**@VK
+3,careregreg54543mo**@mail.ru,user-3,@RUE,,ACTIVE,USER,
+4,jee-boy**@yandex.ru,user,TRUE,,ACTI**@E,USER,
+5,djuvs**@mail.ru,mr. Djuvs,TRUE,Ю**@ий,ACTIVE,EXPERT,
+6,camoro**@mail.ru,user-6,TRUE,,NEW**@USER,
+7,camor**@mail.ru,user-7,TRUE,Павел,ACTIVE,USER,
 8,alex.**@ryomin@gmail.com,yeryomin,TRUE,Sascha Yeryomin,ACTIVE,USER,
-9,@.Popov@bssys.com,user-9,TRUE,Павел Аркадьевич,NEW,USER,@10,katterina7@yandex.ru,user-10,TRUE,Екатерина,ACTIVE,USER,
+9,Popov**@bssys.com,user-9,TRUE,Павел Аркадьевич,NEW,USER,@10,katterina7@yandex.ru,user-10,TRUE,Екатерина,ACTIVE,USER,
 11,u**@utko**@yandex.ru,user-11,TRUE,Морской бриз,ACTIVE,EXPERT,
 12,slava-cska**@mail.ru,user-12,TRUE,Слава,ACTIVE,USER,
 13,mrbboysuslik**@yandex.ru,user-13,TRUE,Suslik,ACTIVE,USER,
