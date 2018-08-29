@@ -20,7 +20,7 @@ psql --host $APP_POSTGRES_HOST -U postgres -c '
 	text varchar (5000),
 	link varchar (255),
 	user_id bigint,
-	resoved_by_id bigint,
+	resolved_by_id bigint,
 	target_id bigint,
 	visits_count_admin int,
 	visits_count_expert int,
